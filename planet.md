@@ -1,5 +1,0 @@
-<h1>Planet Pluto</h1>
-
-
-Pluto is a famous dwarf planet in the icy Kuiper Belt beyond Neptune, reclassified from its long-held status as the ninth planet in 2006 by the IAU because it hasn't cleared its orbital path of debris. It's a small, cold, icy world with mountains, plains, a thin atmosphere, and five moons, notably Charon, explored up close by NASA's New Horizons mission. 
-pluto is a planet

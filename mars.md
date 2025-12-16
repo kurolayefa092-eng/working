@@ -1,3 +1,0 @@
-<h1>Planet Jupiter</h1>
-Jupiter is the solar system's largest planet, a gas giant known for its colorful, stormy atmosphere, iconic Great Red Spot, faint rings, and numerous moons, including the Galilean moons Io, Europa, Ganymede, and Callisto; it's primarily hydrogen and helium, lacks a solid surface, spins rapidly (a day under 10 hours), and has immense gravity that influences other celestial bodies. 
-pluto is a planet
