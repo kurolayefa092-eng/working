@@ -1,1 +1,1 @@
-Hey everyone, i'm learning branching.
+Hey everyone, i'm learning branching and i think its fun
