@@ -1,1 +1,1 @@
-Hey everyone, i'm learning branching and its quite not balanced.
+Hey everyone, i'm learning branching and its not balanced.
